@@ -1,0 +1,22 @@
+{
+  "@class" : "com.github.aznamier.keycloak.event.provider.EventClientNotificationMqMsg",
+  "time" : 1662643579281,
+  "type" : "VERIFY_EMAIL",
+  "realmId" : "22aa41b1-2569-43cd-a0fe-3e48eec4422c",
+  "clientId" : "account-console",
+  "userId" : "9986642b-1866-4273-ac72-5fc3ac9d7dff",
+  "ipAddress" : "10.0.0.2",
+  "details" : {
+    "auth_method" : "openid-connect",
+    "token_id" : "c63109c6-9d6f-4243-84ca-63434d163faa",
+    "action" : "verify-email",
+    "response_type" : "code",
+    "redirect_uri" : "https://auth.dev.infrazer.io/realms/infrazer-dev/account/#/",
+    "remember_me" : "false",
+    "consent" : "no_consent_required",
+    "code_id" : "4ecb73cd-cf8a-4dd4-9a84-36572ed4aab1",
+    "email" : "ov@fevlake.com",
+    "response_mode" : "fragment",
+    "username" : "ov@fevlake.com"
+  }
+}

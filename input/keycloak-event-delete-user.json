@@ -1,0 +1,15 @@
+{
+  "@class" : "com.github.aznamier.keycloak.event.provider.EventAdminNotificationMqMsg",
+  "time" : 1662644648407,
+  "realmId" : "22aa41b1-2569-43cd-a0fe-3e48eec4422c",
+  "authDetails" : {
+    "realmId" : "b630b5a8-db58-4f68-a974-bec3cb73766a",
+    "clientId" : "d507ff95-7c51-4ddd-bc7a-1e7daa31db5d",
+    "userId" : "2b06a232-dbef-4022-b1f9-76ed70b30125",
+    "ipAddress" : "10.0.0.2"
+  },
+  "resourceType" : "USER",
+  "operationType" : "DELETE",
+  "resourcePath" : "users/2711fa29-7136-4c94-abab-e60a6eb77675",
+  "resourceTypeAsString" : "USER"
+}
